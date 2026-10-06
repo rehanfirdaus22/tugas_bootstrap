@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%)
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.myprofilgw {
+    width: 200px;
+
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.identitas {
+    background: linear-gradient(#ffffff 0%, #ffffff00 40%, #ffffff00 100%)
+}
+.identitas {
+    padding-top: 100px;
+}
+.identitas {
+    padding-bottom: 300px;
+}
+.identitas h1 {
+    color: white;
+}
+
+.achievement h1 {
+    color: white;
+}
+.achievement h5 {
+    color: white;
+}
+.watermark {
+    padding-top: 30px;
+}
